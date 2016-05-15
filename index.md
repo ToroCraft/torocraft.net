@@ -1,6 +1,7 @@
 # ToroCraft
 ### Mincraft Mods
 
+test <% recipe() %>!
 
 ## ToroBase
 
