@@ -1,0 +1,22 @@
+{
+  "name": "torocraft.net",
+  "version": "1.0.0",
+  "description": "Web files for torocraft.net",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToroCraft/torocraft.net.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ToroCraft/torocraft.net/issues"
+  },
+  "homepage": "https://github.com/ToroCraft/torocraft.net#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
