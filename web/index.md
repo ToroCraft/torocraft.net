@@ -1,7 +1,10 @@
 # ToroCraft
 ### Mincraft Mods
 
-test <% recipe() %>!
+test <% recipe({
+	slot1: 'test',
+	result: 'out'
+}) %>!
 
 ## ToroBase
 
