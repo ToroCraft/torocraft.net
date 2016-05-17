@@ -10,6 +10,8 @@ test <% recipe({
 
 ## Torch Arrows
 
+## SugarCraft
+
 ## Minecraft Chess
 
 
