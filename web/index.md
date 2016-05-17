@@ -1,18 +1,28 @@
 # ToroCraft
-### Minecraft Mods
+
+
+
+
+
+
+
+## ToroCraft Mods
+
+
+### [ToroCraft](ToroCraft/ToroCraft.html)
+
+
+### [Torch Arrows](TorchArrows/TorchArrows.html)
+
+### SugarCraft
+
+### Minecraft Chess
+
+
 
 test <% recipe({
 	slot1: 'test',
 	result: 'out'
 }) %>!
-
-## ToroBase
-
-## Torch Arrows
-
-## SugarCraft
-
-## Minecraft Chess
-
 
 [GitHub](https://github.com/ToroCraft)
