@@ -37,6 +37,12 @@ app.get('/update', function (req, res) {
 });
 
 
+app.post('/update', function (req, res) {
+	res.send('updating...');
+	pullAndBuild();
+});
+
+
 
 
 app.use(express.static(webPath + '/_dist'));
