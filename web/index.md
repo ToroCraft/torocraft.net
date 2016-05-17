@@ -1,5 +1,5 @@
 # ToroCraft
-### Mincraft Mods
+### Minecraft Mods
 
 test <% recipe({
 	slot1: 'test',
@@ -15,4 +15,4 @@ test <% recipe({
 ## Minecraft Chess
 
 
-[GitHub](https://github.com/frodare/torocraft)
+[GitHub](https://github.com/ToroCraft)
