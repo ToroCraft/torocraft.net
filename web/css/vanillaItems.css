@@ -7,6 +7,7 @@ width: 32px;
 
 .item-sprite {
 background: url(./sprite.png) #8b8b8b no-repeat;
+background-position: 64px 64px;
 }
 
 .pack {
