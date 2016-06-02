@@ -6,7 +6,7 @@ width: 32px;
 }
 
 .item-sprite {
-background: url(./sprite.png) no-repeat;
+background: url(./sprite.png) #8b8b8b no-repeat;
 }
 
 .pack {
